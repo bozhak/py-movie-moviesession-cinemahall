@@ -1,4 +1,4 @@
-from db.models import MovieSession, Movie, CinemaHall
+from db.models import MovieSession
 from datetime import date
 from django.db.models import QuerySet
 
